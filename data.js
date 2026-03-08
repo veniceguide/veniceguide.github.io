@@ -441,7 +441,7 @@ const translations = {
                     "assets/basilica_ted11.mp3",
                     "assets/basilica_ted12.mp3",
                     "assets/basilica_ted13.mp3",
-                    "assets/basilica_ted14.mp3",
+                    "assets/basilica_ted14.mp3"
                 ],
                 "pdf": "assets/doc_placeholder.pdf",
                 "image": "assets/basilica_img.jpg"
