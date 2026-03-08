@@ -427,7 +427,22 @@ const translations = {
             "basilica": {
                 "title": "Markusdom",
                 "desc": "Der Markusdom ist das Symbol Venedigs und das Herz der Serenissima, gegründet nach der Ankunft der Reliquien des Heiligen Markus im Jahr 828, diente als Kapelle des Dogen und Bühne für Staatszeremonien, wurde im 11. Jahrhundert mit byzantinischem Einfluss umgebaut und ist noch heute ein goldenes Monument, das die Macht, den Glauben und die Identität der Republik Venedig zum Ausdruck bringt.",
-                "audio": "assets/audio_placeholder.mp3",
+                "audio": [
+                    "assets/basilica_ted1.mp3",
+                    "assets/basilica_ted2.mp3",
+                    "assets/basilica_ted3.mp3",
+                    "assets/basilica_ted4.mp3",
+                    "assets/basilica_ted5.mp3",
+                    "assets/basilica_ted6.mp3",
+                    "assets/basilica_ted7.mp3",
+                    "assets/basilica_ted8.mp3",
+                    "assets/basilica_ted9.mp3",
+                    "assets/basilica_ted10.mp3",
+                    "assets/basilica_ted11.mp3",
+                    "assets/basilica_ted12.mp3",
+                    "assets/basilica_ted13.mp3",
+                    "assets/basilica_ted14.mp3",
+                ],
                 "pdf": "assets/doc_placeholder.pdf",
                 "image": "assets/basilica_img.jpg"
             },
