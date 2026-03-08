@@ -387,7 +387,7 @@ const translations = {
                 "title": "Gondelfahrt",
                 "desc": "Der folgende Text lädt den Leser ein, die Gondel aus ihrer authentischsten Perspektive neu zu entdecken: nicht als touristisches Symbol, sondern als außergewöhnliches funktionales Objekt, das aus der Not heraus geformt und über Jahrhunderte perfektioniert wurde. Durch ihre Geschichte, ihr technisches Design, ihre Handwerkskunst und ihre Symbolik erweist sich die Gondel als eine einzigartige Balance aus Ingenieurskunst, Kultur und venezianischem Alltag, die die Geschichte der Stadt klarer erzählen kann als jeder Blick von oben. \\nLaden Sie das vollständige PDF unten herunter.",
                 "audio": "assets/audio_placeholder.mp3",
-                "pdf": "assets/doc_placeholder.pdf",
+                "pdf": "assets/gondola_ted.pdf",
                 "image": "assets/gondola_img.jpg"
             },
             "palazzo_ducale": {
@@ -441,7 +441,10 @@ const translations = {
             "campanile": {
                 "title": "Campanile di San Marco",
                 "desc": "Der Markusturm (Campanile di San Marco) dient als wichtiger vertikaler Orientierungspunkt in der horizontalen Landschaft Venedigs und fungierte ursprünglich als mittelalterlicher Wachturm und Leuchtturm. Neben seiner religiösen Rolle regelte er historisch das städtische Leben, indem er über seine Glocken wichtige öffentliche Ereignisse signalisierte. Nach seinem plötzlichen Einsturz im Jahr 1902 wurde der Turm originalgetreu rekonstruiert, um die Identität der Stadt zu bewahren. Heute ist er ein Symbol der venezianischen Widerstandsfähigkeit und bietet eine einzigartige Perspektive auf die wassergeprägte Geographie der Stadt.",
-                "audio": "assets/audio_placeholder.mp3",
+                "audio": [
+                    "assets/campanile_ted.mp3",
+                    "assets/campanile_ted2.mp3"
+                ],
                 "pdf": "assets/doc_placeholder.pdf",
                 "image": "assets/campanile.jpg"
             },
@@ -453,15 +456,16 @@ const translations = {
                     "assets/murano_ted2.mp3",
                     "assets/murano_ted3.mp3"
                 ],
-                "pdf": "assets/gondola_en.pdf",
+                "pdf": "assets/murano_ted.pdf",
                 "image": "assets/murano.jpg"
             },
             "Burano": {
                 "title": "Burano",
                 "desc": "Burano ist eine malerische Insel in der Lagune von Venedig, die für ihre bunten Häuser berühmt ist, die historisch den Fischern halfen, durch den Nebel sicher nach Hause zu navigieren. Die reiche Kultur der Insel ist tief in der Fischerei und in den lokalen kulinarischen Traditionen verwurzelt, insbesondere in frischen Meeresfrüchten und energiegelieferten Keksen wie Bussolà und Esse. Darüber hinaus ist Burano weltweit anerkannt für seine feine, handgearbeitete Spitze, eine sorgfältig bewahrte weibliche Tradition, die von Generation zu Generation weitergegeben wurde. Der Besuch von Burano bietet ein wunderschönes, sinnliches Erlebnis des dauerhaften Erbes und des lebendigen lokalen Lebensstils.",
                 "audio": [
-                    "assets/gondola_en.mp3",
-                    "assets/gondola_en2.mp3"
+                    "assets/burano_ted.mp3",
+                    "assets/burano_ted2.mp3", 
+                    "assets/burano_ted3.mp3"
                 ],
                 "pdf": "assets/gondola_en.pdf",
                 "image": "assets/burano.jpg"
