@@ -393,7 +393,7 @@ const translations = {
             "palazzo_ducale": {
                 "title": "Dogenpalast",
                 "desc": "Dieser Text stellt den Dogenpalast als das politische und institutionelle Herz der Republik Venedig vor, einen Ort, an dem Macht, Regierungsführung und Repräsentation über Jahrhunderte zusammenliefen. Durch seine vielschichtige Geschichte und sich entwickelnde Architektur spiegelt der Palast die Entwicklung des politischen Lebens Venedigs und den Ehrgeiz der Republik wider, Autorität, Diplomatie und künstlerische Pracht in einem einzigen monumentalen Symbol zu vereinen.",
-                "audio": "audio": [
+                "audio": [
                     "assets/ducale_ted1.mp3",
                     "assets/ducale_ted2.mp3",
                     "assets/ducale_ted3.mp3",
@@ -406,8 +406,7 @@ const translations = {
                     "assets/ducale_ted10.mp3",
                     "assets/ducale_ted11.mp3",
                     "assets/ducale_ted12.mp3",
-                    "assets/ducale_ted13.mp3",
-                    "assets/ducale_ted14.mp3"
+                    "assets/ducale_ted13.mp3"
                 ],
                 "pdf": "assets/ducale_ted.pdf",
                 "image": "assets/palazzo_duc_img.jpg",
@@ -494,41 +493,44 @@ const translations = {
             "palazzo_ducale": {
                 "title": "Palais des Doges",
                 "desc": "Ce texte présente le Palais des Doges comme le cœur politique et institutionnel de la République de Venise, un lieu où le pouvoir, la gouvernance et la représentation a convergé pendant des siècles. À travers son histoire complexe et son architecture en évolution, le palais reflète le développement de la vie politique vénitienne et l'ambition de la République d'unir autorité, diplomatie et magnificence artistique en un seul symbole monumental.",
-                "audio": "assets/audio_placeholder.mp3",
+                "audio": [
+                    "assets/ducale_ted1.mp3",
+                    "assets/ducale_ted2.mp3",
+                    "assets/ducale_ted3.mp3",
+                    "assets/ducale_ted4.mp3",
+                    "assets/ducale_ted5.mp3",
+                    "assets/ducale_ted6.mp3",
+                    "assets/ducale_ted7.mp3",
+                    "assets/ducale_ted8.mp3",
+                    "assets/ducale_ted9.mp3",
+                    "assets/ducale_ted10.mp3",
+                    "assets/ducale_ted11.mp3",
+                    "assets/ducale_ted12.mp3",
+                    "assets/ducale_ted13.mp3",
+                    "assets/ducale_ted14.mp3"
+                ],
                 "pdf": "assets/doc_placeholder.pdf",
                 "image": "assets/palazzo_duc_img.jpg",
-                "chapters": [
-                    {
-                        "title": "La Cour",
-                        "text": "En entrant dans le palais, on est accueilli par la magnifique cour qui mêle les styles Renaissance et Gothique.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    },
-                    {
-                        "title": "Les Salles Institutionnelles",
-                        "text": "Ces salles étaient le cœur de la vie politique vénitienne. C'est ici que se réunissaient le Sénat et le Grand Conseil.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    },
-                    {
-                        "title": "Les Appartements du Doge",
-                        "text": "La résidence privée du Doge était étonnamment modeste comparée aux salles publiques.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    },
-                    {
-                        "title": "L'Armurerie",
-                        "text": "L'Armurerie du Palais abrite une vaste collection d'armes et d'armures.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    },
-                    {
-                        "title": "Les Prisons",
-                        "text": "Reliées par le Pont des Soupirs, les Nouvelles Prisons étaient un lieu redouté.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    }
-                ]
             },
             "basilica": {
                 "title": "Basilique Saint-Marc",
                 "desc": "La Basilique Saint-Marc est le symbole de Venise et le cœur de la Sérénissime, fondée après l'arrivée des reliques de Saint Marc en 828, servant de chapelle du Doge et de scène pour les cérémonies d'État, reconstruite au XIe siècle avec une influence byzantine, et encore aujourd'hui un monument doré exprimant la puissance, la foi et l'identité de la République de Venise.",
-                "audio": "assets/audio_placeholder.mp3",
+                "audio": [
+                    "assets/ducale_ted1.mp3",
+                    "assets/ducale_ted2.mp3",
+                    "assets/ducale_ted3.mp3",
+                    "assets/ducale_ted4.mp3",
+                    "assets/ducale_ted5.mp3",
+                    "assets/ducale_ted6.mp3",
+                    "assets/ducale_ted7.mp3",
+                    "assets/ducale_ted8.mp3",
+                    "assets/ducale_ted9.mp3",
+                    "assets/ducale_ted10.mp3",
+                    "assets/ducale_ted11.mp3",
+                    "assets/ducale_ted12.mp3",
+                    "assets/ducale_ted13.mp3",
+                    "assets/ducale_ted14.mp3"
+                ],
                 "pdf": "assets/doc_placeholder.pdf",
                 "image": "assets/basilica_img.jpg"
             },
@@ -587,41 +589,44 @@ const translations = {
             "palazzo_ducale": {
                 "title": "Palacio Ducal",
                 "desc": "Este texto introduce el Palacio Ducal como el corazón político e institucional de la República de Venecia, un lugar donde el poder, el gobierno y la representación convergieron durante siglos. A través de su historia superpuesta y arquitectura en evolución, el palacio refleja el desarrollo de la vida política veneciana y la ambición de la República de unir autoridad, diplomacia y magnificencia artística en un solo símbolo monumental.",
-                "audio": "assets/audio_placeholder.mp3",
+                "audio": [
+                    "assets/ducale_ted1.mp3",
+                    "assets/ducale_ted2.mp3",
+                    "assets/ducale_ted3.mp3",
+                    "assets/ducale_ted4.mp3",
+                    "assets/ducale_ted5.mp3",
+                    "assets/ducale_ted6.mp3",
+                    "assets/ducale_ted7.mp3",
+                    "assets/ducale_ted8.mp3",
+                    "assets/ducale_ted9.mp3",
+                    "assets/ducale_ted10.mp3",
+                    "assets/ducale_ted11.mp3",
+                    "assets/ducale_ted12.mp3",
+                    "assets/ducale_ted13.mp3",
+                    "assets/ducale_ted14.mp3"
+                ],
                 "pdf": "assets/doc_placeholder.pdf",
                 "image": "assets/palazzo_duc_img.jpg",
-                "chapters": [
-                    {
-                        "title": "El Patio",
-                        "text": "Al entrar en el palacio, uno es recibido por el magnífico patio que mezcla estilos renacentistas y góticos.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    },
-                    {
-                        "title": "Las Salas Institucionales",
-                        "text": "Estas salas eran el corazón de la vida política veneciana. Aquí se reunían el Senado y el Gran Consejo.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    },
-                    {
-                        "title": "Los Apartamentos del Dux",
-                        "text": "La residencia privada del Dux era sorprendentemente modesta en comparación con las salas públicas.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    },
-                    {
-                        "title": "La Armería",
-                        "text": "La Armería del Palacio alberga una vasta colección de armas y armaduras.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    },
-                    {
-                        "title": "Las Prisiones",
-                        "text": "Conectadas por el Puente de los Suspiros, las Nuevas Prisiones eran un lugar temido.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    }
-                ]
             },
             "basilica": {
                 "title": "Basílica de San Marcos",
                 "desc": "La Basílica de San Marcos es el símbolo de Venecia y el corazón de la Serenísima, fundada tras la llegada de las reliquias de San Marcos en 828, sirviendo como capilla del Dux y escenario de ceremonias estatales, reconstruida en el siglo XI con influencia bizantina, y aún hoy un monumento dorado que expresa el poder, la fe y la identidad de la República de Venecia.",
-                "audio": "assets/audio_placeholder.mp3",
+                "audio": [
+                    "assets/ducale_ted1.mp3",
+                    "assets/ducale_ted2.mp3",
+                    "assets/ducale_ted3.mp3",
+                    "assets/ducale_ted4.mp3",
+                    "assets/ducale_ted5.mp3",
+                    "assets/ducale_ted6.mp3",
+                    "assets/ducale_ted7.mp3",
+                    "assets/ducale_ted8.mp3",
+                    "assets/ducale_ted9.mp3",
+                    "assets/ducale_ted10.mp3",
+                    "assets/ducale_ted11.mp3",
+                    "assets/ducale_ted12.mp3",
+                    "assets/ducale_ted13.mp3",
+                    "assets/ducale_ted14.mp3"
+                ],
                 "pdf": "assets/doc_placeholder.pdf",
                 "image": "assets/basilica_img.jpg"
             },
@@ -680,41 +685,44 @@ const translations = {
             "palazzo_ducale": {
                 "title": "Palácio Ducal",
                 "desc": "Este texto apresenta o Palácio Ducal como o coração político e institucional da República de Veneza, um lugar onde poder, governança e representação convergiram por séculos. Através de sua história em camadas e arquitetura em evolução, o palácio reflete o desenvolvimento da vida política veneziana e a ambição da República de unir autoridade, diplomacia e magnificência artística num único símbolo monumental.",
-                "audio": "assets/audio_placeholder.mp3",
+                "audio": [
+                    "assets/ducale_ted1.mp3",
+                    "assets/ducale_ted2.mp3",
+                    "assets/ducale_ted3.mp3",
+                    "assets/ducale_ted4.mp3",
+                    "assets/ducale_ted5.mp3",
+                    "assets/ducale_ted6.mp3",
+                    "assets/ducale_ted7.mp3",
+                    "assets/ducale_ted8.mp3",
+                    "assets/ducale_ted9.mp3",
+                    "assets/ducale_ted10.mp3",
+                    "assets/ducale_ted11.mp3",
+                    "assets/ducale_ted12.mp3",
+                    "assets/ducale_ted13.mp3",
+                    "assets/ducale_ted14.mp3"
+                ],
                 "pdf": "assets/doc_placeholder.pdf",
                 "image": "assets/palazzo_duc_img.jpg",
-                "chapters": [
-                    {
-                        "title": "O Pátio",
-                        "text": "Ao entrar no palácio, somos recebidos pelo magnífico pátio, um espaço que mistura os estilos Renascentista e Gótico. Os dois poços de bronze datam de meados do século XVI.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    },
-                    {
-                        "title": "As Câmaras Institucionais",
-                        "text": "Estas salas eram o coração da vida política veneziana. Aqui, o Senado e o Grande Conselho reuniam-se para decidir o destino da República.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    },
-                    {
-                        "title": "Os Apartamentos do Doge",
-                        "text": "A residência privada do Doge era surpreendentemente modesta em comparação com os salões públicos, mas repleta de tesouros artísticos.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    },
-                    {
-                        "title": "A Arsenal",
-                        "text": "O Arsenal do Palácio abriga uma vasta coleção de armas e armaduras, um testemunho do poder militar de Veneza.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    },
-                    {
-                        "title": "As Prisões",
-                        "text": "Conectadas ao palácio pela Ponte dos Suspiros, as Novas Prisões foram temidas por séculos. Casanova escapou famosamente dos Chumbos (Piombi) acima do palácio.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    }
-                ]
             },
             "basilica": {
                 "title": "Basílica de São Marcos",
                 "desc": "A Basílica de São Marcos é o símbolo de Veneza e o coração da Sereníssima, fundada após a chegada das relíquias de São Marcos em 828, servindo como capela do Doge e palco de cerimônias de estado, reconstruída no século XI com influência bizantina, e ainda hoje um monumento dourado que expressa o poder, a fé e a identidade da República de Veneza.",
-                "audio": "assets/audio_placeholder.mp3",
+                "audio": [
+                    "assets/ducale_ted1.mp3",
+                    "assets/ducale_ted2.mp3",
+                    "assets/ducale_ted3.mp3",
+                    "assets/ducale_ted4.mp3",
+                    "assets/ducale_ted5.mp3",
+                    "assets/ducale_ted6.mp3",
+                    "assets/ducale_ted7.mp3",
+                    "assets/ducale_ted8.mp3",
+                    "assets/ducale_ted9.mp3",
+                    "assets/ducale_ted10.mp3",
+                    "assets/ducale_ted11.mp3",
+                    "assets/ducale_ted12.mp3",
+                    "assets/ducale_ted13.mp3",
+                    "assets/ducale_ted14.mp3"
+                ],
                 "pdf": "assets/doc_placeholder.pdf",
                 "image": "assets/basilica_img.jpg"
             },
