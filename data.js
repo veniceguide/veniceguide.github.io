@@ -393,36 +393,24 @@ const translations = {
             "palazzo_ducale": {
                 "title": "Dogenpalast",
                 "desc": "Dieser Text stellt den Dogenpalast als das politische und institutionelle Herz der Republik Venedig vor, einen Ort, an dem Macht, Regierungsführung und Repräsentation über Jahrhunderte zusammenliefen. Durch seine vielschichtige Geschichte und sich entwickelnde Architektur spiegelt der Palast die Entwicklung des politischen Lebens Venedigs und den Ehrgeiz der Republik wider, Autorität, Diplomatie und künstlerische Pracht in einem einzigen monumentalen Symbol zu vereinen.",
-                "audio": "assets/audio_placeholder.mp3",
-                "pdf": "assets/doc_placeholder.pdf",
+                "audio": "audio": [
+                    "assets/ducale_ted1.mp3",
+                    "assets/ducale_ted2.mp3",
+                    "assets/ducale_ted3.mp3",
+                    "assets/ducale_ted4.mp3",
+                    "assets/ducale_ted5.mp3",
+                    "assets/ducale_ted6.mp3",
+                    "assets/ducale_ted7.mp3",
+                    "assets/ducale_ted8.mp3",
+                    "assets/ducale_ted9.mp3",
+                    "assets/ducale_ted10.mp3",
+                    "assets/ducale_ted11.mp3",
+                    "assets/ducale_ted12.mp3",
+                    "assets/ducale_ted13.mp3",
+                    "assets/ducale_ted14.mp3"
+                ],
+                "pdf": "assets/ducale_ted.pdf",
                 "image": "assets/palazzo_duc_img.jpg",
-                "chapters": [
-                    {
-                        "title": "Der Innenhof",
-                        "text": "Beim Betreten des Palastes wird man vom prächtigen Innenhof empfangen, der Renaissance- und Gotikstile vereint.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    },
-                    {
-                        "title": "Die Institutionellen Säle",
-                        "text": "Diese Räume waren das Herz des venezianischen politischen Lebens. Hier tagten der Senat und der Große Rat.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    },
-                    {
-                        "title": "Die Gemächer des Dogen",
-                        "text": "Die private Residenz des Dogen war überraschend bescheiden im Vergleich zu den öffentlichen Sälen.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    },
-                    {
-                        "title": "Die Waffenkammer",
-                        "text": "Die Waffenkammer beherbergt eine riesige Sammlung von Waffen und Rüstungen.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    },
-                    {
-                        "title": "Die Gefängnisse",
-                        "text": "Verbunden durch die Seufzerbrücke, waren die Neuen Gefängnisse ein gefürchteter Ort.",
-                        "audio": "assets/audio_placeholder.mp3"
-                    }
-                ]
             },
             "basilica": {
                 "title": "Markusdom",
@@ -443,7 +431,7 @@ const translations = {
                     "assets/basilica_ted13.mp3",
                     "assets/basilica_ted14.mp3"
                 ],
-                "pdf": "assets/doc_placeholder.pdf",
+                "pdf": "assets/basilica_ted.pdf",
                 "image": "assets/basilica_img.jpg"
             },
             "rialto": {
