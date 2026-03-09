@@ -493,24 +493,76 @@ const translations = {
             "palazzo_ducale": {
                 "title": "Palais des Doges",
                 "desc": "Ce texte présente le Palais des Doges comme le cœur politique et institutionnel de la République de Venise, un lieu où le pouvoir, la gouvernance et la représentation a convergé pendant des siècles. À travers son histoire complexe et son architecture en évolution, le palais reflète le développement de la vie politique vénitienne et l'ambition de la République d'unir autorité, diplomatie et magnificence artistique en un seul symbole monumental.",
-                "audio": [
-                    "assets/ducale_ted1.mp3",
-                    "assets/ducale_ted2.mp3",
-                    "assets/ducale_ted3.mp3",
-                    "assets/ducale_ted4.mp3",
-                    "assets/ducale_ted5.mp3",
-                    "assets/ducale_ted6.mp3",
-                    "assets/ducale_ted7.mp3",
-                    "assets/ducale_ted8.mp3",
-                    "assets/ducale_ted9.mp3",
-                    "assets/ducale_ted10.mp3",
-                    "assets/ducale_ted11.mp3",
-                    "assets/ducale_ted12.mp3",
-                    "assets/ducale_ted13.mp3",
-                    "assets/ducale_ted14.mp3"
-                ],
+                "audio": "assets/ducale_fra1.mp3",
                 "pdf": "assets/doc_placeholder.pdf",
                 "image": "assets/palazzo_duc_img.jpg",
+                "chapters": [
+                    {
+                        "title": "Exterior Architecture",
+                        "text": "The Exterior of the Doge’s Palace is a masterpiece of Venetian Gothic architecture. The lower arcades convey strength and stability, while the upper levels appear light and elegant. Decorative marble, sculptural details, and pointed arches express authority and sophistication. Materials imported from across the Mediterranean reflect Venice’s trade networks. The façade projects both political power and cultural prestige.",
+                        "audio": "assets/ducale_fra2.mp3"  
+                    },
+                    {
+                        "title": "Inner Courtyard",
+                        "text": "The inner courtyard serves as a transitional space between the public exterior and the palace interiors. Its symmetrical layout and arcaded galleries emphasize order and harmony. Sculpted columns and decorated capitals display artistic refinement and cultural openness. The open central space allows light to enhance the architectural rhythm. Historically, it functioned as a ceremonial and political gathering area.",
+                        "audio": "assets/ducale_fra3.mp3"
+                    },
+                    {
+                        "title": "The Giants' Staircase",
+                        "text": "The Giants’ Staircase is a monumental ceremonial stairway symbolizing Venetian authority. Built in the late 15th century, it hosted key public rituals, including the Doge’s coronation. The statues of Mars and Neptune represent power on land and sea. Their imposing scale reminds viewers that the Doge served the Republic, not the reverse. The staircase blends architecture, ceremony, and civic ideology.",
+                        "audio": "assets/ducale_fra4.mp3"
+                    },
+                    {
+                        "title": "The Golden Staircase",
+                        "text": "The Golden Staircase provided a refined and private ascent for the Doge and magistrates. Decorated with gold leaf and elaborate stucco, it celebrates Venetian artistic excellence. Built in the mid-16th century, it marked the transition from public to private governance spaces. Its iconography evokes harmony, wisdom, and maritime power. Art and politics merge seamlessly along its ascent.",
+                        "audio": "assets/ducale_fra5.mp3"
+                    },
+                    {
+                        "title": "The Hall of the Four Doors",
+                        "text": "The Hall of the Four Doors functioned as a symbolic and ceremonial crossroads within the palace. Its four monumental doorways regulated movement between key political spaces. Rich stucco, marble, and allegorical sculptures convey civic virtues. The hall prepared officials for entry into the main council chambers. Even passage through the palace carried political meaning.",
+                        "audio": "assets/ducale_fra6.mp3"
+                    },
+                    {
+                        "title": "The Anticollegio",
+                        "text": "The Anticollegio served as a preparatory area for Venice’s governing councils. Here, officials held briefings and consultations before formal sessions. The rooms are richly decorated with historical and allegorical artworks. Ceilings emphasize justice, prudence, and orderly governance. The space bridges ceremonial grandeur and practical decision-making.",
+                        "audio": "assets/ducale_fra7.mp3"
+                    },
+                    {
+                        "title": "The College Chamber",
+                        "text": "The College Chamber was the executive coordination center of the Republic. The Doge and senior officials met here to shape policy and strategy. Decorative frescoes reinforced moral responsibility and civic virtue. The layout supported efficient discussion and hierarchy. The chamber balanced ceremony with everyday governance.",
+                        "audio": "assets/ducale_fra8.mp3"
+                    },
+                    {
+                        "title": "The Senate Chamber",
+                        "text": "The Senate Chamber hosted debates on Venice’s political, military, and diplomatic affairs. Known as the Consiglio dei Pregadi, it guided the Republic’s international actions. Walls and ceilings are filled with symbolic historical imagery. Art reinforced Venice’s global role and moral responsibility. Politics, diplomacy, and aesthetics converge in this space.",
+                        "audio": "assets/ducale_fra9.mp3"
+                    },
+                    {
+                        "title": "Hall of the Council of Ten",
+                        "text": "The Council of Ten was Venice’s most powerful security institution. Created in 1310, it handled state security, espionage, and moral enforcement. The chamber’s intimate layout emphasized secrecy and control. Allegorical decorations reinforced divine and civic authority. Decisions here could determine individual and state destinies.",
+                        "audio": "assets/ducale_fra10.mp3"
+                    },
+                    {
+                        "title": "Hall of the Great Council",
+                        "text": "The Hall of the Great Council was the largest and most important political space in Venice. It hosted assemblies of over 2,000 patricians. The vast hall symbolizes collective governance and civic unity. Masterpieces by Tintoretto and others dominate the walls and ceiling. The room narrates Venice’s political identity through art.",
+                        "audio": "assets/ducale_fra11.mp3"
+                    },
+                    {
+                        "title": "Hall of the Scrutiny",
+                        "text": "The Hall of the Scrutiny was central to Venice’s complex electoral system. Originally intended for manuscripts, it became the space for voting and ballot counting. Its decoration followed the fire of 1577 and celebrates military victories. Portraits of Doges reinforce political continuity. Even electoral procedures were surrounded by symbolism and ritual.",
+                        "audio": "assets/ducale_fra12.mp3"
+                    },
+                    {
+                        "title": "The Bridge of Sighs",
+                        "text": "The Bridge of Sighs connected the Doge’s Palace to the New Prisons. Built in the early 17th century, it served a strictly judicial function. Its enclosed structure ensured controlled prisoner transfers. Later romantic interpretations gave it symbolic and literary fame. Today, it embodies justice, legend, and Venetian imagination.",
+                        "audio": "assets/ducale_fra13.mp3"
+                    },
+                    {
+                        "title": "The new Prisons",
+                        "text": "The New Prisons reflect Venice’s advanced approach to incarceration. Built in the early 1600s, they emphasized order, control, and supervision. Cells were small but allowed light and ventilation. Prisoners entered via the Bridge of Sighs after judgment. The complex reveals Venice’s balance between authority and discipline.",
+                        "audio": "assets/ducale_fra14.mp3"
+                    }
+                ]
             },
             "basilica": {
                 "title": "Basilique Saint-Marc",
@@ -685,24 +737,76 @@ const translations = {
             "palazzo_ducale": {
                 "title": "Palácio Ducal",
                 "desc": "Este texto apresenta o Palácio Ducal como o coração político e institucional da República de Veneza, um lugar onde poder, governança e representação convergiram por séculos. Através de sua história em camadas e arquitetura em evolução, o palácio reflete o desenvolvimento da vida política veneziana e a ambição da República de unir autoridade, diplomacia e magnificência artística num único símbolo monumental.",
-                "audio": [
-                    "assets/ducale_ted1.mp3",
-                    "assets/ducale_ted2.mp3",
-                    "assets/ducale_ted3.mp3",
-                    "assets/ducale_ted4.mp3",
-                    "assets/ducale_ted5.mp3",
-                    "assets/ducale_ted6.mp3",
-                    "assets/ducale_ted7.mp3",
-                    "assets/ducale_ted8.mp3",
-                    "assets/ducale_ted9.mp3",
-                    "assets/ducale_ted10.mp3",
-                    "assets/ducale_ted11.mp3",
-                    "assets/ducale_ted12.mp3",
-                    "assets/ducale_ted13.mp3",
-                    "assets/ducale_ted14.mp3"
-                ],
+                "audio": "assets/ducale_pt1.mp3",
                 "pdf": "assets/doc_placeholder.pdf",
                 "image": "assets/palazzo_duc_img.jpg",
+                "chapters": [
+                    {
+                        "title": "Exterior Architecture",
+                        "text": "The Exterior of the Doge’s Palace is a masterpiece of Venetian Gothic architecture. The lower arcades convey strength and stability, while the upper levels appear light and elegant. Decorative marble, sculptural details, and pointed arches express authority and sophistication. Materials imported from across the Mediterranean reflect Venice’s trade networks. The façade projects both political power and cultural prestige.",
+                        "audio": "assets/ducale_pt2.mp3"  
+                    },
+                    {
+                        "title": "Inner Courtyard",
+                        "text": "The inner courtyard serves as a transitional space between the public exterior and the palace interiors. Its symmetrical layout and arcaded galleries emphasize order and harmony. Sculpted columns and decorated capitals display artistic refinement and cultural openness. The open central space allows light to enhance the architectural rhythm. Historically, it functioned as a ceremonial and political gathering area.",
+                        "audio": "assets/ducale_pt3.mp3"
+                    },
+                    {
+                        "title": "The Giants' Staircase",
+                        "text": "The Giants’ Staircase is a monumental ceremonial stairway symbolizing Venetian authority. Built in the late 15th century, it hosted key public rituals, including the Doge’s coronation. The statues of Mars and Neptune represent power on land and sea. Their imposing scale reminds viewers that the Doge served the Republic, not the reverse. The staircase blends architecture, ceremony, and civic ideology.",
+                        "audio": "assets/ducale_pt4.mp3"
+                    },
+                    {
+                        "title": "The Golden Staircase",
+                        "text": "The Golden Staircase provided a refined and private ascent for the Doge and magistrates. Decorated with gold leaf and elaborate stucco, it celebrates Venetian artistic excellence. Built in the mid-16th century, it marked the transition from public to private governance spaces. Its iconography evokes harmony, wisdom, and maritime power. Art and politics merge seamlessly along its ascent.",
+                        "audio": "assets/ducale_pt5.mp3"
+                    },
+                    {
+                        "title": "The Hall of the Four Doors",
+                        "text": "The Hall of the Four Doors functioned as a symbolic and ceremonial crossroads within the palace. Its four monumental doorways regulated movement between key political spaces. Rich stucco, marble, and allegorical sculptures convey civic virtues. The hall prepared officials for entry into the main council chambers. Even passage through the palace carried political meaning.",
+                        "audio": "assets/ducale_pt6.mp3"
+                    },
+                    {
+                        "title": "The Anticollegio",
+                        "text": "The Anticollegio served as a preparatory area for Venice’s governing councils. Here, officials held briefings and consultations before formal sessions. The rooms are richly decorated with historical and allegorical artworks. Ceilings emphasize justice, prudence, and orderly governance. The space bridges ceremonial grandeur and practical decision-making.",
+                        "audio": "assets/ducale_pt7.mp3"
+                    },
+                    {
+                        "title": "The College Chamber",
+                        "text": "The College Chamber was the executive coordination center of the Republic. The Doge and senior officials met here to shape policy and strategy. Decorative frescoes reinforced moral responsibility and civic virtue. The layout supported efficient discussion and hierarchy. The chamber balanced ceremony with everyday governance.",
+                        "audio": "assets/ducale_pt8.mp3"
+                    },
+                    {
+                        "title": "The Senate Chamber",
+                        "text": "The Senate Chamber hosted debates on Venice’s political, military, and diplomatic affairs. Known as the Consiglio dei Pregadi, it guided the Republic’s international actions. Walls and ceilings are filled with symbolic historical imagery. Art reinforced Venice’s global role and moral responsibility. Politics, diplomacy, and aesthetics converge in this space.",
+                        "audio": "assets/ducale_pt9.mp3"
+                    },
+                    {
+                        "title": "Hall of the Council of Ten",
+                        "text": "The Council of Ten was Venice’s most powerful security institution. Created in 1310, it handled state security, espionage, and moral enforcement. The chamber’s intimate layout emphasized secrecy and control. Allegorical decorations reinforced divine and civic authority. Decisions here could determine individual and state destinies.",
+                        "audio": "assets/ducale_pt10.mp3"
+                    },
+                    {
+                        "title": "Hall of the Great Council",
+                        "text": "The Hall of the Great Council was the largest and most important political space in Venice. It hosted assemblies of over 2,000 patricians. The vast hall symbolizes collective governance and civic unity. Masterpieces by Tintoretto and others dominate the walls and ceiling. The room narrates Venice’s political identity through art.",
+                        "audio": "assets/ducale_pt11.mp3"
+                    },
+                    {
+                        "title": "Hall of the Scrutiny",
+                        "text": "The Hall of the Scrutiny was central to Venice’s complex electoral system. Originally intended for manuscripts, it became the space for voting and ballot counting. Its decoration followed the fire of 1577 and celebrates military victories. Portraits of Doges reinforce political continuity. Even electoral procedures were surrounded by symbolism and ritual.",
+                        "audio": "assets/ducale_pt12.mp3"
+                    },
+                    {
+                        "title": "The Bridge of Sighs",
+                        "text": "The Bridge of Sighs connected the Doge’s Palace to the New Prisons. Built in the early 17th century, it served a strictly judicial function. Its enclosed structure ensured controlled prisoner transfers. Later romantic interpretations gave it symbolic and literary fame. Today, it embodies justice, legend, and Venetian imagination.",
+                        "audio": "assets/ducale_pt13.mp3"
+                    },
+                    {
+                        "title": "The new Prisons",
+                        "text": "The New Prisons reflect Venice’s advanced approach to incarceration. Built in the early 1600s, they emphasized order, control, and supervision. Cells were small but allowed light and ventilation. Prisoners entered via the Bridge of Sighs after judgment. The complex reveals Venice’s balance between authority and discipline.",
+                        "audio": "assets/ducale_pt14.mp3"
+                    }
+                ]
             },
             "basilica": {
                 "title": "Basílica de São Marcos",
