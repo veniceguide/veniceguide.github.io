@@ -447,7 +447,7 @@ const translations = {
                     "assets/campanile_ted.mp3",
                     "assets/campanile_ted2.mp3"
                 ],
-                "pdf": "assets/doc_placeholder.pdf",
+                "pdf": "assets/campanile_ted.pdf",
                 "image": "assets/campanile.jpg"
             },
             "Murano": {
@@ -487,14 +487,14 @@ const translations = {
                 "title": "Tour en gondole",
                 "desc": "Le texte suivant invite le lecteur à redécouvrir la gondole sous son angle le plus authentique : non pas comme un symbole touristique, mais comme un objet fonctionnel extraordinaire façonné par la nécessité et perfectionné au fil des siècles. À travers son histoire, sa conception technique, son savoir-faire et son symbolisme, la gondole apparaît comme un équilibre unique entre ingénierie, culture et vie quotidienne vénitienne, capable de raconter l'histoire de la ville plus clairement que n'importe quelle vue de dessus. \\nTéléchargez le PDF complet ci-dessous.",
                 "audio": "assets/audio_placeholder.mp3",
-                "pdf": "assets/doc_placeholder.pdf",
+                "pdf": "assets/gondola_fr.pdf",
                 "image": "assets/gondola_img.jpg"
             },
             "palazzo_ducale": {
                 "title": "Palais des Doges",
                 "desc": "Ce texte présente le Palais des Doges comme le cœur politique et institutionnel de la République de Venise, un lieu où le pouvoir, la gouvernance et la représentation a convergé pendant des siècles. À travers son histoire complexe et son architecture en évolution, le palais reflète le développement de la vie politique vénitienne et l'ambition de la République d'unir autorité, diplomatie et magnificence artistique en un seul symbole monumental.",
                 "audio": "assets/ducale_fra1.mp3",
-                "pdf": "assets/doc_placeholder.pdf",
+                "pdf": "assets/ducale_fra.pdf",
                 "image": "assets/palazzo_duc_img.jpg",
                 "chapters": [
                     {
@@ -571,8 +571,8 @@ const translations = {
                     "assets/basilica_fra1.mp3",
                     "assets/basilica_fra2.mp3"
                 ],
-                "pdf": "assets/doc_placeholder.pdf",
-                "image": "assets/basilica_img.jpg", 
+                "pdf": "assets/basilica_fra.pdf",
+                "image": "assets/basilica_img.jpg",
                 "chapters": [
                     {
                         "title": "Interior Architecture",
@@ -643,7 +643,7 @@ const translations = {
                     "assets/campanile_fra1.mp3",
                     "assets/campanile_fra2.mp3"
                 ],
-                "pdf": "assets/doc_placeholder.pdf",
+                "pdf": "assets/campanile_fra.pdf",
                 "image": "assets/campanile.jpg"
             },
             "Murano": {
@@ -651,10 +651,10 @@ const translations = {
                 "desc": "Au Moyen Âge, les verriers vénitiens possédaient une compétence exclusive et très rentable : affiner et colorer le verre. Pour protéger ce secret d'État des marchands étrangers et pour prévenir officiellement les incendies à Venise, le Doge a ordonné le déplacement de tous les fours à verre sur l'île de Murano d'ici la fin du XIIIe siècle, restreignant fortement les déplacements des maîtres verriers. Le processus traditionnel de fabrication du verre consiste à faire fondre un mélange de sable de silice, de soude et de calcaire à des températures dépassant les 1 300 degrés Celsius. Après que le verre en fusion soit affiné pour éliminer les bulles d'air, des oxydes métalliques sont ajoutés pour la couleur, et un maître verrier moule rapidement la pièce en utilisant une canne à souffler avant qu'elle ne soit soumise à un lent processus de recuit pour éviter les fissures.",
                 "audio": [
                     "assets/murano_fra1.mp3",
-                    "assets/murano_fra2.mp3", 
+                    "assets/murano_fra2.mp3",
                     "assets/murano_fra3.mp3"
                 ],
-                "pdf": "assets/gondola_en.pdf",
+                "pdf": "assets/murano_fra.pdf",
                 "image": "assets/murano.jpg"
             },
             "Burano": {
@@ -662,10 +662,10 @@ const translations = {
                 "desc": "Burano est une île pittoresque de la lagune vénitienne, célèbre pour ses maisons aux couleurs vives, qui aidaient historiquement les pêcheurs à retrouver leur maison en toute sécurité à travers le brouillard. La riche culture de l'île est profondément ancrée dans la pêche et les traditions culinaires locales, caractérisée notamment par ses fruits de mer frais et ses biscuits énergétiques tels que le bussolà et l'esse. En outre, Burano est reconnue mondialement pour sa dentelle délicate, faite à la main, une tradition féminine minutieusement préservée et transmise de génération en génération. Visiter Burano offre une belle expérience sensorielle de son patrimoine pérenne et de son mode de vie local si vivant.",
                 "audio": [
                     "assets/burano_fra1.mp3",
-                    "assets/burano_fra2.mp3", 
+                    "assets/burano_fra2.mp3",
                     "assets/burano_fra3.mp3"
                 ],
-                "pdf": "assets/gondola_en.pdf",
+                "pdf": "assets/burano_fra.pdf",
                 "image": "assets/burano.jpg"
             }
         }
@@ -683,14 +683,14 @@ const translations = {
                 "title": "Paseo en góndola",
                 "desc": "El siguiente texto invita al lector a redescubrir la góndola desde su perspectiva más auténtica: no como un símbolo turístico, sino como un extraordinario objeto funcional moldeado por la necesidad y perfeccionado a lo largo de los siglos. A través de su historia, diseño técnico, artesanía y simbolismo, la góndola emerge como un equilibrio único de ingeniería, cultura y vida cotidiana veneciana, capaz de contar la historia de la ciudad más claramente que cualquier vista desde arriba. \\nDescargue el PDF completo a continuación.",
                 "audio": "assets/audio_placeholder.mp3",
-                "pdf": "assets/doc_placeholder.pdf",
+                "pdf": "assets/gondola_esp.pdf",
                 "image": "assets/gondola_img.jpg"
             },
             "palazzo_ducale": {
                 "title": "Palacio Ducal",
                 "desc": "Este texto introduce el Palacio Ducal como el corazón político e institucional de la República de Venecia, un lugar donde el poder, el gobierno y la representación convergieron durante siglos. A través de su historia superpuesta y arquitectura en evolución, el palacio refleja el desarrollo de la vida política veneciana y la ambición de la República de unir autoridad, diplomacia y magnificencia artística en un solo símbolo monumental.",
                 "audio": "assets/ducale_spa1.mp3",
-                "pdf": "assets/doc_placeholder.pdf",
+                "pdf": "assets/ducale_esp.pdf",
                 "image": "assets/palazzo_duc_img.jpg",
                 "chapters": [
                     {
@@ -767,8 +767,8 @@ const translations = {
                     "assets/basilica_spa1.mp3",
                     "assets/basilica_spa2.mp3",
                 ],
-                "pdf": "assets/doc_placeholder.pdf",
-                "image": "assets/basilica_img.jpg", 
+                "pdf": "assets/basilica_esp.pdf",
+                "image": "assets/basilica_img.jpg",
                 "chapters": [
                     {
                         "title": "Interior Architecture",
@@ -839,7 +839,7 @@ const translations = {
                     "assets/campanile_spa1.mp3",
                     "assets/campanile_spa2.mp3"
                 ],
-                "pdf": "assets/doc_placeholder.pdf",
+                "pdf": "assets/campanile_esp.pdf",
                 "image": "assets/campanile.jpg"
             },
             "Murano": {
@@ -847,10 +847,10 @@ const translations = {
                 "desc": "Durante la Edad Media, los vidrieros venecianos poseían la exclusiva y muy rentable habilidad de refinar y colorear vidrio. Para proteger este secreto de estado de los comerciantes extranjeros y para prevenir oficialmente incendios en Venecia, el Dux ordenó la reubicación de todos los hornos de vidrio a la isla de Murano a fines del siglo XIII, restringiendo severamente el movimiento de los maestros vidrieros. El proceso tradicional de fabricación de vidrio consiste en derretir una mezcla de arena de sílice, sosa y piedra caliza a temperaturas superiores a los 1.300 grados centígrados. Después de que el vidrio fundido se refina para eliminar las burbujas de aire, se agregan óxidos metálicos para el color, y un maestro vidriero moldea rápidamente la pieza mediante un tubo de soplado antes de someterse a un lento proceso de enfriamiento recocido para evitar grietas.",
                 "audio": [
                     "assets/murano_spa1.mp3",
-                    "assets/murano_spa2.mp3", 
+                    "assets/murano_spa2.mp3",
                     "assets/murano_spa3.mp3"
                 ],
-                "pdf": "assets/gondola_en.pdf",
+                "pdf": "assets/murano_esp.pdf",
                 "image": "assets/murano.jpg"
             },
             "Burano": {
@@ -858,10 +858,10 @@ const translations = {
                 "desc": "Burano es una pintoresca isla en la laguna de Venecia, famosa por sus casas de colores brillantes, que históricamente ayudaban a los pescadores a navegar de regreso a casa de manera segura a través de la niebla. La rica cultura de la isla está profundamente arraigada en la pesca y las tradiciones culinarias locales, destacando productos pesqueros frescos y galletas energizantes como el bussolà y l'esse. Además, Burano es mundialmente reconocida por su delicado encaje hecho a mano, una tradición femenina meticulosamente preservada transmitida de generación en generación. Visitar Burano ofrece una hermosa experiencia sensorial de su perdurable patrimonio y vibrante estilo de vida local.",
                 "audio": [
                     "assets/burano_spa1.mp3",
-                    "assets/burano_spa2.mp3", 
+                    "assets/burano_spa2.mp3",
                     "assets/burano_spa3.mp3"
                 ],
-                "pdf": "assets/gondola_en.pdf",
+                "pdf": "assets/burano_esp.pdf",
                 "image": "assets/burano.jpg"
             }
         }
@@ -879,14 +879,14 @@ const translations = {
                 "title": "Passeio de Gôndola",
                 "desc": "O texto a seguir convida o leitor a redescobrir a gôndola a partir de sua perspectiva mais autêntica: não como um símbolo turístico, mas como um extraordinário objeto funcional moldado pela necessidade e aperfeiçoado ao longo dos séculos. Através de sua história, design técnico, artesanato e simbolismo, a gôndola surge como um equilíbrio único de engenharia, cultura e vida cotidiana veneziana, capaz de contar a história da cidade de forma mais clara do que qualquer vista de cima. \\nBaixe o PDF completo abaixo.",
                 "audio": "assets/audio_placeholder.mp3",
-                "pdf": "assets/doc_placeholder.pdf",
+                "pdf": "assets/gondola_port.pdf",
                 "image": "assets/gondola_img.jpg"
             },
             "palazzo_ducale": {
                 "title": "Palácio Ducal",
                 "desc": "Este texto apresenta o Palácio Ducal como o coração político e institucional da República de Veneza, um lugar onde poder, governança e representação convergiram por séculos. Através de sua história em camadas e arquitetura em evolução, o palácio reflete o desenvolvimento da vida política veneziana e a ambição da República de unir autoridade, diplomacia e magnificência artística num único símbolo monumental.",
                 "audio": "assets/ducale_pt1.mp3",
-                "pdf": "assets/doc_placeholder.pdf",
+                "pdf": "assets/ducale_port.pdf",
                 "image": "assets/palazzo_duc_img.jpg",
                 "chapters": [
                     {
@@ -975,7 +975,7 @@ const translations = {
                     "assets/ducale_ted13.mp3",
                     "assets/ducale_ted14.mp3"
                 ],
-                "pdf": "assets/doc_placeholder.pdf",
+                "pdf": "assets/basilica_port.pdf",
                 "image": "assets/basilica_img.jpg"
             },
             "rialto": {
@@ -992,7 +992,7 @@ const translations = {
                     "assets/campanile_pt1.mp3",
                     "assets/campanile_pt2.mp3"
                 ],
-                "pdf": "assets/doc_placeholder.pdf",
+                "pdf": "assets/campanile_port.pdf",
                 "image": "assets/campanile.jpg"
             },
             "Murano": {
@@ -1000,10 +1000,10 @@ const translations = {
                 "desc": "Durante a Idade Média, os vidreiros venezianos possuíam a habilidade exclusiva e altamente lucrativa de refinar e colorir o vidro. Para proteger esse segredo de estado de comerciantes estrangeiros e para prevenir oficialmente incêndios em Veneza, o Doge ordenou a realocação de todos os fornos de vidro para a ilha de Murano até o final do século 13, restringindo severamente o movimento dos mestres vidreiros. O processo tradicional de fabricação de vidro envolve derreter uma mistura de areia de sílica, soda e calcário a temperaturas que ultrapassam os 1.300 graus Celsius. Depois que o vidro fundido é refinado para remover as bolhas de ar, óxidos metálicos são adicionados para dar cor, e um mestre vidreiro molda rapidamente a peça usando um tubo de sopro antes de passar por um longo processo de recozimento para evitar rachaduras.",
                 "audio": [
                     "assets/murano_pt1.mp3",
-                    "assets/murano_pt2.mp3", 
+                    "assets/murano_pt2.mp3",
                     "assets/murano_pt3.mp3"
                 ],
-                "pdf": "assets/gondola_en.pdf",
+                "pdf": "assets/murano_port.pdf",
                 "image": "assets/murano.jpg"
             },
             "Burano": {
@@ -1013,7 +1013,7 @@ const translations = {
                     "assets/burano_pt1.mp3",
                     "assets/burano_pt2.mp3"
                 ],
-                "pdf": "assets/gondola_en.pdf",
+                "pdf": "assets/burano_port.pdf",
                 "image": "assets/burano.jpg"
             }
         }
