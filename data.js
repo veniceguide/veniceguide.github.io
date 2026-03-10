@@ -188,11 +188,11 @@ const translations = {
                 ]
             },
             "rialto": {
-                "title": "Rialto Bridge",
-                "desc": "The Rialto Bridge is the oldest of the four bridges spanning the Grand Canal in Venice, Italy. Connecting the sestieri (districts) of San Marco and San Polo, it has been rebuilt several times since its first construction as a pontoon bridge in the 12th century, and is now a significant tourist attraction in the city. The present stone bridge, a single span designed by Antonio da Ponte, was completed in 1591. It is similar in style to the wooden bridge it succeeded.",
+                "title": "Museo Correr",
+                "desc": "The Museo Correr is a civic museum in Venice, Italy, located in St. Mark's Square. It offers a fascinating journey into the art, history, and culture of Venice, starting from the Napoleonic Wing where the museum entrance is located, and continuing through the Procuratie Nuove. The rich collections document various aspects of Venetian life, housing masterpieces ranging from Venetian paintings to classical antiquities.",
                 "audio": "assets/audio_placeholder.mp3",
-                "pdf": "assets/doc_placeholder.pdf",
-                "image": "assets/rialto_img.jpg"
+                "pdf": "assets/correr_en.pdf",
+                "image": "assets/correr.jpg"
             },
             "Murano": {
                 "title": "Murano",
@@ -335,11 +335,11 @@ const translations = {
                 ]
             },
             "rialto": {
-                "title": "Ponte di Rialto",
-                "desc": "Il Ponte di Rialto è il più antico dei quattro ponti che attraversano il Canal Grande a Venezia, Italia. Collegando i sestieri (quartieri) di San Marco e San Polo, è stato ricostruito più volte dalla sua prima costruzione come ponte di barche nel XII secolo, ed è ora un'importante attrazione turistica della città. L'attuale ponte in pietra, a campata unica progettato da Antonio da Ponte, è stato completato nel 1591. È simile nello stile al ponte in legno che lo ha preceduto.",
+                "title": "Museo Correr",
+                "desc": "Il Museo Correr è un museo civico di Venezia, situato in Piazza San Marco. Offre un affascinante viaggio nell'arte, nella storia e nella cultura della città, a partire dall'Ala Napoleonica fino alle Procuratie Nuove. Le ricche collezioni documentano vari aspetti della vita veneziana, ospitando capolavori che spaziano dai dipinti storici alle antichità classiche e fornendo profonde intuizioni sul glorioso passato della Serenissima.",
                 "audio": "assets/audio_placeholder.mp3",
-                "pdf": "assets/doc_placeholder.pdf",
-                "image": "assets/rialto_img.jpg"
+                "pdf": "assets/correr_ita.pdf",
+                "image": "assets/correr.jpg"
             },
             "campanile": {
                 "title": "Campanile di San Marco",
@@ -356,7 +356,7 @@ const translations = {
                 "desc": "Durante il Medioevo, i vetrai veneziani possedevano l'esclusiva e altamente redditizia competenza di raffinare e colorare il vetro. Per proteggere questo segreto di stato dai mercanti stranieri e per prevenire ufficialmente gli incendi a Venezia, il Doge ordinò il trasferimento di tutte le fornaci da vetro sull'isola di Murano entro la fine del XIII secolo, limitando pesantemente il movimento dei maestri vetrai. Il processo tradizionale di lavorazione del vetro prevede la fusione di una miscela di sabbia silicea, soda e calcare a temperature superiori ai 1.300 gradi Celsius. Dopo che il vetro fuso viene raffinato per rimuovere le bolle d'aria, vengono aggiunti ossidi metallici per il colore e un maestro vetraio modella rapidamente il pezzo utilizzando una canna da soffio prima che sia sottoposto a un lento processo di ricottura per evitare crepe.",
                 "audio": [
                     "assets/murano_ita.mp3",
-                    "assets/murano_ita2.mp3", 
+                    "assets/murano_ita2.mp3",
                     "assets/murano_ita3.mp3"
                 ],
                 "pdf": "assets/murano_ita.pdf",
@@ -434,11 +434,11 @@ const translations = {
                 "image": "assets/basilica_img.jpg"
             },
             "rialto": {
-                "title": "Rialtobrücke",
-                "desc": "Die Rialtobrücke ist die älteste der vier Brücken, die den Canal Grande in Venedig, Italien, überspannen. Sie verbindet die Sestieri (Bezirke) von San Marco und San Polo, wurde seit ihrer ersten Errichtung als Pontonbrücke im 12. Jahrhundert mehrmals neu gebaut und ist heute eine bedeutende Touristenattraktion in der Stadt. Die heutige Steinbrücke, eine einbogige Konstruktion von Antonio da Ponte, wurde 1591 fertiggestellt. Sie ähnelt im Stil der hölzernen Brücke, die sie ersetzt hat.",
+                "title": "Museo Correr",
+                "desc": "Das Museo Correr ist ein städtisches Museum in Venedig, Italien, das sich am Markusplatz befindet. Es bietet eine faszinierende Reise in die Kunst, Geschichte und Kultur Venedigs, beginnend mit dem Napoleonischen Flügel, in dem sich der Eingang befindet, und weiter durch die Procuratie Nuove. Die reichen Sammlungen dokumentieren verschiedene Aspekte des venezianischen Lebens.",
                 "audio": "assets/audio_placeholder.mp3",
-                "pdf": "assets/doc_placeholder.pdf",
-                "image": "assets/rialto_img.jpg"
+                "pdf": "assets/correr_ted.pdf",
+                "image": "assets/correr.jpg"
             },
             "campanile": {
                 "title": "Campanile di San Marco",
@@ -466,7 +466,7 @@ const translations = {
                 "desc": "Burano ist eine malerische Insel in der Lagune von Venedig, die für ihre bunten Häuser berühmt ist, die historisch den Fischern halfen, durch den Nebel sicher nach Hause zu navigieren. Die reiche Kultur der Insel ist tief in der Fischerei und in den lokalen kulinarischen Traditionen verwurzelt, insbesondere in frischen Meeresfrüchten und energiegelieferten Keksen wie Bussolà und Esse. Darüber hinaus ist Burano weltweit anerkannt für seine feine, handgearbeitete Spitze, eine sorgfältig bewahrte weibliche Tradition, die von Generation zu Generation weitergegeben wurde. Der Besuch von Burano bietet ein wunderschönes, sinnliches Erlebnis des dauerhaften Erbes und des lebendigen lokalen Lebensstils.",
                 "audio": [
                     "assets/burano_ted.mp3",
-                    "assets/burano_ted2.mp3", 
+                    "assets/burano_ted2.mp3",
                     "assets/burano_ted3.mp3"
                 ],
                 "pdf": "assets/burano_ted.pdf",
@@ -500,7 +500,7 @@ const translations = {
                     {
                         "title": "Exterior Architecture",
                         "text": "The Exterior of the Doge’s Palace is a masterpiece of Venetian Gothic architecture. The lower arcades convey strength and stability, while the upper levels appear light and elegant. Decorative marble, sculptural details, and pointed arches express authority and sophistication. Materials imported from across the Mediterranean reflect Venice’s trade networks. The façade projects both political power and cultural prestige.",
-                        "audio": "assets/ducale_fra2.mp3"  
+                        "audio": "assets/ducale_fra2.mp3"
                     },
                     {
                         "title": "Inner Courtyard",
@@ -587,11 +587,11 @@ const translations = {
                 "image": "assets/basilica_img.jpg"
             },
             "rialto": {
-                "title": "Pont du Rialto",
-                "desc": "Le pont du Rialto est le plus ancien des quatre ponts enjambant le Grand Canal à Venise, en Italie. Reliant les sestieri (quartiers) de San Marco et San Polo, il a été reconstruit à plusieurs reprises depuis sa première construction sous forme de pont flottant au XIIe siècle, et constitue aujourd'hui une attraction touristique majeure de la ville. Le pont de pierre actuel, à travée unique conçu par Antonio da Ponte, a été achevé en 1591. Son style est similaire à celui du pont de bois qu'il a remplacé.",
+                "title": "Museo Correr",
+                "desc": "Le Museo Correr est un musée municipal de Venise, en Italie, situé sur la place Saint-Marc. Il propose un voyage fascinant dans l'art, l'histoire et la culture de Venise, en commençant par l'Aile Napoléonienne où se trouve l'entrée, et en continuant à travers les Procuratie Nuove. Ses riches collections documentent divers aspects de la vie vénitienne et abritent des chefs-d'œuvre de la peinture et de l'antiquité.",
                 "audio": "assets/audio_placeholder.mp3",
-                "pdf": "assets/doc_placeholder.pdf",
-                "image": "assets/rialto_img.jpg"
+                "pdf": "assets/correr_fra.pdf",
+                "image": "assets/correr.jpg"
             },
             "campanile": {
                 "title": "Campanile di San Marco",
@@ -648,7 +648,7 @@ const translations = {
                     {
                         "title": "Exterior Architecture",
                         "text": "The Exterior of the Doge’s Palace is a masterpiece of Venetian Gothic architecture. The lower arcades convey strength and stability, while the upper levels appear light and elegant. Decorative marble, sculptural details, and pointed arches express authority and sophistication. Materials imported from across the Mediterranean reflect Venice’s trade networks. The façade projects both political power and cultural prestige.",
-                        "audio": "assets/ducale_spa2.mp3"  
+                        "audio": "assets/ducale_spa2.mp3"
                     },
                     {
                         "title": "Inner Courtyard",
@@ -735,11 +735,11 @@ const translations = {
                 "image": "assets/basilica_img.jpg"
             },
             "rialto": {
-                "title": "Puente de Rialto",
-                "desc": "El Puente de Rialto es el más antiguo de los cuatro puentes que cruzan el Gran Canal en Venecia, Italia. Conectando los sestieri (distritos) de San Marco y San Polo, ha sido reconstruido varias veces desde su primera construcción como un puente de pontones en el siglo XII, y ahora es una importante atracción turística de la ciudad. El actual puente de piedra, de un solo vano diseñado por Antonio da Ponte, se completó en 1591. Es de estilo similar al puente de madera que le sucedió.",
+                "title": "Museo Correr",
+                "desc": "El Museo Correr es un museo cívico de Venecia, Italia, situado en la Plaza de San Marcos. Ofrece un viaje fascinante a la historia, el arte y la cultura de Venecia, comenzando desde el Ala Napoleónica donde se encuentra la entrada, hasta las Procuratie Nuove. Las ricas colecciones documentan diversos aspectos de la vida veneciana, albergando obras maestras que van desde la pintura veneciana hasta las antigüedades clásicas.",
                 "audio": "assets/audio_placeholder.mp3",
-                "pdf": "assets/doc_placeholder.pdf",
-                "image": "assets/rialto_img.jpg"
+                "pdf": "assets/correr_esp.pdf",
+                "image": "assets/correr.jpg"
             },
             "campanile": {
                 "title": "Campanile di San Marco",
@@ -796,7 +796,7 @@ const translations = {
                     {
                         "title": "Exterior Architecture",
                         "text": "The Exterior of the Doge’s Palace is a masterpiece of Venetian Gothic architecture. The lower arcades convey strength and stability, while the upper levels appear light and elegant. Decorative marble, sculptural details, and pointed arches express authority and sophistication. Materials imported from across the Mediterranean reflect Venice’s trade networks. The façade projects both political power and cultural prestige.",
-                        "audio": "assets/ducale_pt2.mp3"  
+                        "audio": "assets/ducale_pt2.mp3"
                     },
                     {
                         "title": "Inner Courtyard",
@@ -883,11 +883,11 @@ const translations = {
                 "image": "assets/basilica_img.jpg"
             },
             "rialto": {
-                "title": "Ponte de Rialto",
-                "desc": "A Ponte de Rialto é a mais antiga das quatro pontes que cruzam o Grande Canal em Veneza, Itália. Ligando os sestieri (bairros) de San Marco e San Polo, foi reconstruída várias vezes desde sua primeira construção como uma ponte de barcas no século XII, e agora é uma importante atração turística da cidade. A atual ponte de pedra, de um único vão projetada por Antonio da Ponte, foi concluída em 1591. É semelhante em estilo à ponte de madeira que a sucedeu.",
+                "title": "Museo Correr",
+                "desc": "O Museo Correr é um museu cívico em Veneza, Itália, localizado na Praça de São Marcos. Ele oferece uma jornada fascinante pela arte, história e cultura de Veneza, começando na Ala Napoleônica onde fica a entrada do museu, e continuando pelas Procuratie Nuove. Suas ricas coleções documentam vários aspectos da vida veneziana, abrigando obras-primas que vão de pinturas venezianas a antiguidades clássicas.",
                 "audio": "assets/audio_placeholder.mp3",
-                "pdf": "assets/doc_placeholder.pdf",
-                "image": "assets/rialto_img.jpg"
+                "pdf": "assets/correr_port.pdf",
+                "image": "assets/correr.jpg"
             },
             "campanile": {
                 "title": "Campanile di San Marco",
