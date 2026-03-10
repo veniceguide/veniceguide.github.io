@@ -386,7 +386,7 @@ const translations = {
             "gondola": {
                 "title": "Gondelfahrt",
                 "desc": "Der folgende Text lädt den Leser ein, die Gondel aus ihrer authentischsten Perspektive neu zu entdecken: nicht als touristisches Symbol, sondern als außergewöhnliches funktionales Objekt, das aus der Not heraus geformt und über Jahrhunderte perfektioniert wurde. Durch ihre Geschichte, ihr technisches Design, ihre Handwerkskunst und ihre Symbolik erweist sich die Gondel als eine einzigartige Balance aus Ingenieurskunst, Kultur und venezianischem Alltag, die die Geschichte der Stadt klarer erzählen kann als jeder Blick von oben. \\nLaden Sie das vollständige PDF unten herunter.",
-                "audio": "assets/audio_placeholder.mp3",
+                "audio": "assets/gondola_ted.mp3",
                 "pdf": "assets/gondola_ted.pdf",
                 "image": "assets/gondola_img.jpg"
             },
@@ -486,7 +486,7 @@ const translations = {
             "gondola": {
                 "title": "Tour en gondole",
                 "desc": "Le texte suivant invite le lecteur à redécouvrir la gondole sous son angle le plus authentique : non pas comme un symbole touristique, mais comme un objet fonctionnel extraordinaire façonné par la nécessité et perfectionné au fil des siècles. À travers son histoire, sa conception technique, son savoir-faire et son symbolisme, la gondole apparaît comme un équilibre unique entre ingénierie, culture et vie quotidienne vénitienne, capable de raconter l'histoire de la ville plus clairement que n'importe quelle vue de dessus. \\nTéléchargez le PDF complet ci-dessous.",
-                "audio": "assets/audio_placeholder.mp3",
+                "audio": "assets/gondola_fra.mp3",
                 "pdf": "assets/gondola_fr.pdf",
                 "image": "assets/gondola_img.jpg"
             },
@@ -682,7 +682,7 @@ const translations = {
             "gondola": {
                 "title": "Paseo en góndola",
                 "desc": "El siguiente texto invita al lector a redescubrir la góndola desde su perspectiva más auténtica: no como un símbolo turístico, sino como un extraordinario objeto funcional moldeado por la necesidad y perfeccionado a lo largo de los siglos. A través de su historia, diseño técnico, artesanía y simbolismo, la góndola emerge como un equilibrio único de ingeniería, cultura y vida cotidiana veneciana, capaz de contar la historia de la ciudad más claramente que cualquier vista desde arriba. \\nDescargue el PDF completo a continuación.",
-                "audio": "assets/audio_placeholder.mp3",
+                "audio": "assets/gondola_esp.mp3",
                 "pdf": "assets/gondola_esp.pdf",
                 "image": "assets/gondola_img.jpg"
             },
@@ -878,7 +878,7 @@ const translations = {
             "gondola": {
                 "title": "Passeio de Gôndola",
                 "desc": "O texto a seguir convida o leitor a redescobrir a gôndola a partir de sua perspectiva mais autêntica: não como um símbolo turístico, mas como um extraordinário objeto funcional moldado pela necessidade e aperfeiçoado ao longo dos séculos. Através de sua história, design técnico, artesanato e simbolismo, a gôndola surge como um equilíbrio único de engenharia, cultura e vida cotidiana veneziana, capaz de contar a história da cidade de forma mais clara do que qualquer vista de cima. \\nBaixe o PDF completo abaixo.",
-                "audio": "assets/audio_placeholder.mp3",
+                "audio": "assets/gondola_pt.mp3",
                 "pdf": "assets/gondola_port.pdf",
                 "image": "assets/gondola_img.jpg"
             },
