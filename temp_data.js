@@ -1,4 +1,4 @@
-const translations = {
+module.exports = {
     "en": {
         "title": "Venice Audio Guide",
         "logout": "Logout",
@@ -16,16 +16,14 @@ const translations = {
                     "assets/gondola_en2.mp3"
                 ],
                 "pdf": "assets/gondola_en.pdf",
-                "image_light": "assets/gondola_img.jpg",
-                "image_dark": "assets/gondola_dark.jpg"
+                "image": "assets/gondola_img.jpg"
             },
             "palazzo_ducale": {
                 "title": "Doge's Palace",
                 "desc": "This text introduces the Doge’s Palace as the political and institutional heart of the Venetian Republic, a place where power, governance, and representation converged for centuries. Through its layered history and evolving architecture, the palace reflects the development of Venetian political life and the Republic’s ambition to unite authority, diplomacy, and artistic magnificence into a single monumental symbol.",
                 "audio": "assets/ducale_en.mp3",
                 "pdf": "assets/ducale_en.pdf",
-                "image_light": "assets/palazzo_duc_img.jpg",
-                "image_dark": "assets/ducale_dark.jpg",
+                "image": "assets/palazzo_duc_img.jpg",
                 "chapters": [
                     {
                         "title": "Exterior Architecture",
@@ -132,8 +130,7 @@ const translations = {
                     "assets/basilica_en2.mp3"
                 ],
                 "pdf": "assets/basilica_en.pdf",
-                "image_light": "assets/basilica_img.jpg",
-                "image_dark": "assets/basilica_dark.jpg",
+                "image": "assets/basilica_img.jpg",
                 "chapters": [
                     {
                         "title": "Interior Architecture",
@@ -195,8 +192,7 @@ const translations = {
                 "desc": "The Museo Correr is a civic museum in Venice, Italy, located in St. Mark's Square. It offers a fascinating journey into the art, history, and culture of Venice, starting from the Napoleonic Wing where the museum entrance is located, and continuing through the Procuratie Nuove. The rich collections document various aspects of Venetian life, housing masterpieces ranging from Venetian paintings to classical antiquities.",
                 "audio": "assets/audio_placeholder.mp3",
                 "pdf": "assets/correr_en.pdf",
-                "image_light": "assets/correr_light.jpg",
-                "image_dark": "assets/correr.jpg"
+                "image": "assets/correr.jpg"
             },
             "Murano": {
                 "title": "Murano",
@@ -206,8 +202,7 @@ const translations = {
                     "assets/murano_en2.mp3"
                 ],
                 "pdf": "assets/murano_en.pdf",
-                "image_light": "assets/murano.jpg",
-                "image_dark": "assets/murano_dark.jpeg"
+                "image": "assets/murano.jpg"
             },
             "Burano": {
                 "title": "Burano",
@@ -217,8 +212,7 @@ const translations = {
                     "assets/burano_en2.mp3"
                 ],
                 "pdf": "assets/burano_en.pdf",
-                "image_light": "assets/burano.jpg",
-                "image_dark": "assets/burano_dark.jpg"
+                "image": "assets/burano.jpg"
             },
             "campanile": {
                 "title": "Campanile di San Marco",
@@ -228,8 +222,7 @@ const translations = {
                     "assets/campanile_en2.mp3"
                 ],
                 "pdf": "assets/campanile_en.pdf",
-                "image_light": "assets/campanile.jpg",
-                "image_dark": "assets/campanile_dark.jpeg"
+                "image": "assets/campanile.jpg"
             }
         }
     },
@@ -250,16 +243,14 @@ const translations = {
                     "assets/gondola_ita2.mp3"
                 ],
                 "pdf": "assets/gondola_ita.pdf",
-                "image_light": "assets/gondola_img.jpg",
-                "image_dark": "assets/gondola_dark.jpg"
+                "image": "assets/gondola_img.jpg"
             },
             "palazzo_ducale": {
                 "title": "Palazzo Ducale",
                 "desc": "Questo testo introduce il Palazzo Ducale come il cuore politico e istituzionale della Repubblica di Venezia, un luogo dove potere, governance e rappresentanza convergevano per secoli. Attraverso la sua storia stratificata e l'architettura in evoluzione, il palazzo riflette lo sviluppo della vita politica veneziana e l'ambizione della Repubblica di unire autorità, diplomazia e magnificenza artistica in un unico simbolo monumentale.",
                 "audio": "assets/ducale_ita.mp3",
                 "pdf": "assets/ducale_ita.pdf",
-                "image_light": "assets/palazzo_duc_img.jpg",
-                "image_dark": "assets/ducale_dark.jpg",
+                "image": "assets/palazzo_duc_img.jpg",
                 "chapters": [
                     {
                         "title": "Architettura Esterna",
@@ -304,8 +295,7 @@ const translations = {
                 "desc": "La Basilica di San Marco è il simbolo di Venezia e il cuore della Serenissima, fondata dopo l'arrivo delle reliquie di San Marco nell'828, servendo come cappella del Doge e palcoscenico per le cerimonie di stato, ricostruita nell'XI secolo con influenze bizantine, e ancora oggi un monumento dorato che esprime il potere, la fede e l'identità della Repubblica di Venezia.",
                 "audio": "assets/basilica_it.mp3",
                 "pdf": "assets/basilica_it.pdf",
-                "image_light": "assets/basilica_img.jpg",
-                "image_dark": "assets/basilica_dark.jpg",
+                "image": "assets/basilica_img.jpg",
                 "chapters": [
                     {
                         "title": "Architettura interna",
@@ -349,8 +339,7 @@ const translations = {
                 "desc": "Il Museo Correr è un museo civico di Venezia, situato in Piazza San Marco. Offre un affascinante viaggio nell'arte, nella storia e nella cultura della città, a partire dall'Ala Napoleonica fino alle Procuratie Nuove. Le ricche collezioni documentano vari aspetti della vita veneziana, ospitando capolavori che spaziano dai dipinti storici alle antichità classiche e fornendo profonde intuizioni sul glorioso passato della Serenissima.",
                 "audio": "assets/audio_placeholder.mp3",
                 "pdf": "assets/correr_ita.pdf",
-                "image_light": "assets/correr_light.jpg",
-                "image_dark": "assets/correr.jpg"
+                "image": "assets/correr.jpg"
             },
             "campanile": {
                 "title": "Campanile di San Marco",
@@ -360,8 +349,7 @@ const translations = {
                     "assets/campanile_ita2.mp3"
                 ],
                 "pdf": "assets/campanile_ita.pdf",
-                "image_light": "assets/campanile.jpg",
-                "image_dark": "assets/campanile_dark.jpeg"
+                "image": "assets/campanile.jpg"
             },
             "Murano": {
                 "title": "Murano",
@@ -372,8 +360,7 @@ const translations = {
                     "assets/murano_ita3.mp3"
                 ],
                 "pdf": "assets/murano_ita.pdf",
-                "image_light": "assets/murano.jpg",
-                "image_dark": "assets/murano_dark.jpeg"
+                "image": "assets/murano.jpg"
             },
             "Burano": {
                 "title": "Burano",
@@ -383,8 +370,7 @@ const translations = {
                     "assets/burano_ita2.mp3"
                 ],
                 "pdf": "assets/burano_ita.pdf",
-                "image_light": "assets/burano.jpg",
-                "image_dark": "assets/burano_dark.jpg"
+                "image": "assets/burano.jpg"
             }
         }
     },
@@ -402,8 +388,7 @@ const translations = {
                 "desc": "Der folgende Text lädt den Leser ein, die Gondel aus ihrer authentischsten Perspektive neu zu entdecken: nicht als touristisches Symbol, sondern als außergewöhnliches funktionales Objekt, das aus der Not heraus geformt und über Jahrhunderte perfektioniert wurde. Durch ihre Geschichte, ihr technisches Design, ihre Handwerkskunst und ihre Symbolik erweist sich die Gondel als eine einzigartige Balance aus Ingenieurskunst, Kultur und venezianischem Alltag, die die Geschichte der Stadt klarer erzählen kann als jeder Blick von oben. \\nLaden Sie das vollständige PDF unten herunter.",
                 "audio": "assets/gondola_ted.mp3",
                 "pdf": "assets/gondola_ted.pdf",
-                "image_light": "assets/gondola_img.jpg",
-                "image_dark": "assets/gondola_dark.jpg"
+                "image": "assets/gondola_img.jpg"
             },
             "palazzo_ducale": {
                 "title": "Dogenpalast",
@@ -424,8 +409,7 @@ const translations = {
                     "assets/ducale_ted13.mp3"
                 ],
                 "pdf": "assets/ducale_ted.pdf",
-                "image_light": "assets/palazzo_duc_img.jpg",
-                "image_dark": "assets/ducale_dark.jpg",
+                "image": "assets/palazzo_duc_img.jpg",
             },
             "basilica": {
                 "title": "Markusdom",
@@ -447,16 +431,14 @@ const translations = {
                     "assets/basilica_ted14.mp3"
                 ],
                 "pdf": "assets/basilica_ted.pdf",
-                "image_light": "assets/basilica_img.jpg",
-                "image_dark": "assets/basilica_dark.jpg"
+                "image": "assets/basilica_img.jpg"
             },
             "rialto": {
                 "title": "Museo Correr",
                 "desc": "Das Museo Correr ist ein städtisches Museum in Venedig, Italien, das sich am Markusplatz befindet. Es bietet eine faszinierende Reise in die Kunst, Geschichte und Kultur Venedigs, beginnend mit dem Napoleonischen Flügel, in dem sich der Eingang befindet, und weiter durch die Procuratie Nuove. Die reichen Sammlungen dokumentieren verschiedene Aspekte des venezianischen Lebens.",
                 "audio": "assets/audio_placeholder.mp3",
                 "pdf": "assets/correr_ted.pdf",
-                "image_light": "assets/correr_light.jpg",
-                "image_dark": "assets/correr.jpg"
+                "image": "assets/correr.jpg"
             },
             "campanile": {
                 "title": "Campanile di San Marco",
@@ -466,8 +448,7 @@ const translations = {
                     "assets/campanile_ted2.mp3"
                 ],
                 "pdf": "assets/campanile_ted.pdf",
-                "image_light": "assets/campanile.jpg",
-                "image_dark": "assets/campanile_dark.jpeg"
+                "image": "assets/campanile.jpg"
             },
             "Murano": {
                 "title": "Murano",
@@ -478,8 +459,7 @@ const translations = {
                     "assets/murano_ted3.mp3"
                 ],
                 "pdf": "assets/murano_ted.pdf",
-                "image_light": "assets/murano.jpg",
-                "image_dark": "assets/murano_dark.jpeg"
+                "image": "assets/murano.jpg"
             },
             "Burano": {
                 "title": "Burano",
@@ -490,8 +470,7 @@ const translations = {
                     "assets/burano_ted3.mp3"
                 ],
                 "pdf": "assets/burano_ted.pdf",
-                "image_light": "assets/burano.jpg",
-                "image_dark": "assets/burano_dark.jpg"
+                "image": "assets/burano.jpg"
             }
         }
     },
@@ -509,16 +488,14 @@ const translations = {
                 "desc": "Le texte suivant invite le lecteur à redécouvrir la gondole sous son angle le plus authentique : non pas comme un symbole touristique, mais comme un objet fonctionnel extraordinaire façonné par la nécessité et perfectionné au fil des siècles. À travers son histoire, sa conception technique, son savoir-faire et son symbolisme, la gondole apparaît comme un équilibre unique entre ingénierie, culture et vie quotidienne vénitienne, capable de raconter l'histoire de la ville plus clairement que n'importe quelle vue de dessus. \\nTéléchargez le PDF complet ci-dessous.",
                 "audio": "assets/gondola_fra.mp3",
                 "pdf": "assets/gondola_fr.pdf",
-                "image_light": "assets/gondola_img.jpg",
-                "image_dark": "assets/gondola_dark.jpg"
+                "image": "assets/gondola_img.jpg"
             },
             "palazzo_ducale": {
                 "title": "Palais des Doges",
                 "desc": "Ce texte présente le Palais des Doges comme le cœur politique et institutionnel de la République de Venise, un lieu où le pouvoir, la gouvernance et la représentation a convergé pendant des siècles. À travers son histoire complexe et son architecture en évolution, le palais reflète le développement de la vie politique vénitienne et l'ambition de la République d'unir autorité, diplomatie et magnificence artistique en un seul symbole monumental.",
                 "audio": "assets/ducale_fra1.mp3",
                 "pdf": "assets/ducale_fra.pdf",
-                "image_light": "assets/palazzo_duc_img.jpg",
-                "image_dark": "assets/ducale_dark.jpg",
+                "image": "assets/palazzo_duc_img.jpg",
                 "chapters": [
                     {
                         "title": "Exterior Architecture",
@@ -595,8 +572,7 @@ const translations = {
                     "assets/basilica_fra2.mp3"
                 ],
                 "pdf": "assets/basilica_fra.pdf",
-                "image_light": "assets/basilica_img.jpg",
-                "image_dark": "assets/basilica_dark.jpg",
+                "image": "assets/basilica_img.jpg",
                 "chapters": [
                     {
                         "title": "Interior Architecture",
@@ -658,8 +634,7 @@ const translations = {
                 "desc": "Le Museo Correr est un musée municipal de Venise, en Italie, situé sur la place Saint-Marc. Il propose un voyage fascinant dans l'art, l'histoire et la culture de Venise, en commençant par l'Aile Napoléonienne où se trouve l'entrée, et en continuant à travers les Procuratie Nuove. Ses riches collections documentent divers aspects de la vie vénitienne et abritent des chefs-d'œuvre de la peinture et de l'antiquité.",
                 "audio": "assets/audio_placeholder.mp3",
                 "pdf": "assets/correr_fra.pdf",
-                "image_light": "assets/correr_light.jpg",
-                "image_dark": "assets/correr.jpg"
+                "image": "assets/correr.jpg"
             },
             "campanile": {
                 "title": "Campanile di San Marco",
@@ -669,8 +644,7 @@ const translations = {
                     "assets/campanile_fra2.mp3"
                 ],
                 "pdf": "assets/campanile_fra.pdf",
-                "image_light": "assets/campanile.jpg",
-                "image_dark": "assets/campanile_dark.jpeg"
+                "image": "assets/campanile.jpg"
             },
             "Murano": {
                 "title": "Murano",
@@ -681,8 +655,7 @@ const translations = {
                     "assets/murano_fra3.mp3"
                 ],
                 "pdf": "assets/murano_fra.pdf",
-                "image_light": "assets/murano.jpg",
-                "image_dark": "assets/murano_dark.jpeg"
+                "image": "assets/murano.jpg"
             },
             "Burano": {
                 "title": "Burano",
@@ -693,8 +666,7 @@ const translations = {
                     "assets/burano_fra3.mp3"
                 ],
                 "pdf": "assets/burano_fra.pdf",
-                "image_light": "assets/burano.jpg",
-                "image_dark": "assets/burano_dark.jpg"
+                "image": "assets/burano.jpg"
             }
         }
     },
@@ -712,16 +684,14 @@ const translations = {
                 "desc": "El siguiente texto invita al lector a redescubrir la góndola desde su perspectiva más auténtica: no como un símbolo turístico, sino como un extraordinario objeto funcional moldeado por la necesidad y perfeccionado a lo largo de los siglos. A través de su historia, diseño técnico, artesanía y simbolismo, la góndola emerge como un equilibrio único de ingeniería, cultura y vida cotidiana veneciana, capaz de contar la historia de la ciudad más claramente que cualquier vista desde arriba. \\nDescargue el PDF completo a continuación.",
                 "audio": "assets/gondola_esp.mp3",
                 "pdf": "assets/gondola_esp.pdf",
-                "image_light": "assets/gondola_img.jpg",
-                "image_dark": "assets/gondola_dark.jpg"
+                "image": "assets/gondola_img.jpg"
             },
             "palazzo_ducale": {
                 "title": "Palacio Ducal",
                 "desc": "Este texto introduce el Palacio Ducal como el corazón político e institucional de la República de Venecia, un lugar donde el poder, el gobierno y la representación convergieron durante siglos. A través de su historia superpuesta y arquitectura en evolución, el palacio refleja el desarrollo de la vida política veneciana y la ambición de la República de unir autoridad, diplomacia y magnificencia artística en un solo símbolo monumental.",
                 "audio": "assets/ducale_spa1.mp3",
                 "pdf": "assets/ducale_esp.pdf",
-                "image_light": "assets/palazzo_duc_img.jpg",
-                "image_dark": "assets/ducale_dark.jpg",
+                "image": "assets/palazzo_duc_img.jpg",
                 "chapters": [
                     {
                         "title": "Exterior Architecture",
@@ -798,8 +768,7 @@ const translations = {
                     "assets/basilica_spa2.mp3",
                 ],
                 "pdf": "assets/basilica_esp.pdf",
-                "image_light": "assets/basilica_img.jpg",
-                "image_dark": "assets/basilica_dark.jpg",
+                "image": "assets/basilica_img.jpg",
                 "chapters": [
                     {
                         "title": "Interior Architecture",
@@ -861,8 +830,7 @@ const translations = {
                 "desc": "El Museo Correr es un museo cívico de Venecia, Italia, situado en la Plaza de San Marcos. Ofrece un viaje fascinante a la historia, el arte y la cultura de Venecia, comenzando desde el Ala Napoleónica donde se encuentra la entrada, hasta las Procuratie Nuove. Las ricas colecciones documentan diversos aspectos de la vida veneciana, albergando obras maestras que van desde la pintura veneciana hasta las antigüedades clásicas.",
                 "audio": "assets/audio_placeholder.mp3",
                 "pdf": "assets/correr_esp.pdf",
-                "image_light": "assets/correr_light.jpg",
-                "image_dark": "assets/correr.jpg"
+                "image": "assets/correr.jpg"
             },
             "campanile": {
                 "title": "Campanile di San Marco",
@@ -872,8 +840,7 @@ const translations = {
                     "assets/campanile_spa2.mp3"
                 ],
                 "pdf": "assets/campanile_esp.pdf",
-                "image_light": "assets/campanile.jpg",
-                "image_dark": "assets/campanile_dark.jpeg"
+                "image": "assets/campanile.jpg"
             },
             "Murano": {
                 "title": "Murano",
@@ -884,8 +851,7 @@ const translations = {
                     "assets/murano_spa3.mp3"
                 ],
                 "pdf": "assets/murano_esp.pdf",
-                "image_light": "assets/murano.jpg",
-                "image_dark": "assets/murano_dark.jpeg"
+                "image": "assets/murano.jpg"
             },
             "Burano": {
                 "title": "Burano",
@@ -896,8 +862,7 @@ const translations = {
                     "assets/burano_spa3.mp3"
                 ],
                 "pdf": "assets/burano_esp.pdf",
-                "image_light": "assets/burano.jpg",
-                "image_dark": "assets/burano_dark.jpg"
+                "image": "assets/burano.jpg"
             }
         }
     },
@@ -915,16 +880,14 @@ const translations = {
                 "desc": "O texto a seguir convida o leitor a redescobrir a gôndola a partir de sua perspectiva mais autêntica: não como um símbolo turístico, mas como um extraordinário objeto funcional moldado pela necessidade e aperfeiçoado ao longo dos séculos. Através de sua história, design técnico, artesanato e simbolismo, a gôndola surge como um equilíbrio único de engenharia, cultura e vida cotidiana veneziana, capaz de contar a história da cidade de forma mais clara do que qualquer vista de cima. \\nBaixe o PDF completo abaixo.",
                 "audio": "assets/gondola_pt.mp3",
                 "pdf": "assets/gondola_port.pdf",
-                "image_light": "assets/gondola_img.jpg",
-                "image_dark": "assets/gondola_dark.jpg"
+                "image": "assets/gondola_img.jpg"
             },
             "palazzo_ducale": {
                 "title": "Palácio Ducal",
                 "desc": "Este texto apresenta o Palácio Ducal como o coração político e institucional da República de Veneza, um lugar onde poder, governança e representação convergiram por séculos. Através de sua história em camadas e arquitetura em evolução, o palácio reflete o desenvolvimento da vida política veneziana e a ambição da República de unir autoridade, diplomacia e magnificência artística num único símbolo monumental.",
                 "audio": "assets/ducale_pt1.mp3",
                 "pdf": "assets/ducale_port.pdf",
-                "image_light": "assets/palazzo_duc_img.jpg",
-                "image_dark": "assets/ducale_dark.jpg",
+                "image": "assets/palazzo_duc_img.jpg",
                 "chapters": [
                     {
                         "title": "Exterior Architecture",
@@ -1013,16 +976,14 @@ const translations = {
                     "assets/ducale_ted14.mp3"
                 ],
                 "pdf": "assets/basilica_port.pdf",
-                "image_light": "assets/basilica_img.jpg",
-                "image_dark": "assets/basilica_dark.jpg"
+                "image": "assets/basilica_img.jpg"
             },
             "rialto": {
                 "title": "Museo Correr",
                 "desc": "O Museo Correr é um museu cívico em Veneza, Itália, localizado na Praça de São Marcos. Ele oferece uma jornada fascinante pela arte, história e cultura de Veneza, começando na Ala Napoleônica onde fica a entrada do museu, e continuando pelas Procuratie Nuove. Suas ricas coleções documentam vários aspectos da vida veneziana, abrigando obras-primas que vão de pinturas venezianas a antiguidades clássicas.",
                 "audio": "assets/audio_placeholder.mp3",
                 "pdf": "assets/correr_port.pdf",
-                "image_light": "assets/correr_light.jpg",
-                "image_dark": "assets/correr.jpg"
+                "image": "assets/correr.jpg"
             },
             "campanile": {
                 "title": "Campanile di San Marco",
@@ -1032,8 +993,7 @@ const translations = {
                     "assets/campanile_pt2.mp3"
                 ],
                 "pdf": "assets/campanile_port.pdf",
-                "image_light": "assets/campanile.jpg",
-                "image_dark": "assets/campanile_dark.jpeg"
+                "image": "assets/campanile.jpg"
             },
             "Murano": {
                 "title": "Murano",
@@ -1044,8 +1004,7 @@ const translations = {
                     "assets/murano_pt3.mp3"
                 ],
                 "pdf": "assets/murano_port.pdf",
-                "image_light": "assets/murano.jpg",
-                "image_dark": "assets/murano_dark.jpeg"
+                "image": "assets/murano.jpg"
             },
             "Burano": {
                 "title": "Burano",
@@ -1055,8 +1014,7 @@ const translations = {
                     "assets/burano_pt2.mp3"
                 ],
                 "pdf": "assets/burano_port.pdf",
-                "image_light": "assets/burano.jpg",
-                "image_dark": "assets/burano_dark.jpg"
+                "image": "assets/burano.jpg"
             }
         }
     }

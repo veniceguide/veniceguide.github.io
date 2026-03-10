@@ -384,7 +384,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
             card.innerHTML = `
                 <div class="card-image-wrapper">
-                    <img src="${item.image}" alt="${item.title}" class="card-image">
+                    <img src="${item.image_dark}" alt="${item.title}" class="card-image-dark">
+                    <img src="${item.image_light}" alt="${item.title}" class="card-image-light">
                 </div>
                 <span class="read-time-badge"><i class="far fa-clock"></i> ${calculateReadingTime(item)} min</span>
                 <button class="fav-btn ${isFav ? 'active' : ''}" data-id="${key}">
@@ -415,16 +416,18 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 card.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
 
-                const img = card.querySelector('.card-image');
-                if (img) {
-                    img.style.transform = `scale(1.1) translate(${(x - centerX) / 20}px, ${(y - centerY) / 20}px)`;
-                }
+                const imgDark = card.querySelector('.card-image-dark');
+                const imgLight = card.querySelector('.card-image-light');
+                if (imgDark) imgDark.style.transform = `scale(1.1) translate(${(x - centerX) / 20}px, ${(y - centerY) / 20}px)`;
+                if (imgLight) imgLight.style.transform = `scale(1.1) translate(${(x - centerX) / 20}px, ${(y - centerY) / 20}px)`;
             });
 
             card.addEventListener('mouseleave', () => {
                 card.style.transform = '';
-                const img = card.querySelector('.card-image');
-                if (img) img.style.transform = '';
+                const imgDark = card.querySelector('.card-image-dark');
+                const imgLight = card.querySelector('.card-image-light');
+                if (imgDark) imgDark.style.transform = '';
+                if (imgLight) imgLight.style.transform = '';
             });
 
             // Handle Fav Click
@@ -539,7 +542,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
         detailTitle.textContent = item.title;
         detailDesc.textContent = item.desc;
-        detailImage.src = item.image;
+
+        const detailImgDark = document.getElementById('detail-image-dark');
+        const detailImgLight = document.getElementById('detail-image-light');
+        if (detailImgDark) detailImgDark.src = item.image_dark;
+        if (detailImgLight) detailImgLight.src = item.image_light;
 
         // Mark as Visited logic removed
 
