@@ -897,8 +897,7 @@ const translations = {
                     "assets/correr_es3.mp3", 
                     "assets/correr_es4.mp3", 
                     "assets/correr_es5.mp3", 
-                    "assets/correr_es6.mp3", 
-                    "assets/correr_es7.mp3"
+                    "assets/correr_es6.mp3"
                 ],
                 "pdf": "assets/correr_esp.pdf",
                 "image_light": "assets/correr_light.jpg",
@@ -1108,8 +1107,7 @@ const translations = {
                     "assets/correr_pt3.mp3", 
                     "assets/correr_pt4.mp3", 
                     "assets/correr_pt5.mp3", 
-                    "assets/correr_pt6.mp3", 
-                    "assets/correr_pt7.mp3"
+                    "assets/correr_pt6.mp3"
                 ],
                 "pdf": "assets/correr_port.pdf",
                 "image_light": "assets/correr_light.jpg",
